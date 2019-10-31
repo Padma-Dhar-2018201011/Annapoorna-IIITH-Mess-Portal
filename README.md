@@ -1,3 +1,3 @@
 # Annapoorna-IIITH-Mess-Portal
 
-Mess Portal for IIITH
+Mess Portal for IIITH.
